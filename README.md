@@ -1,3 +1,5 @@
+**RESEARCH PURPOSES ONLY**
+
 Install Tampermonkey and make sure it is allowed to run user scripts in Chrome/Edge.
 
 Open the Tampermonkey dashboard, create a new script, paste the code, and save it.
