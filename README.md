@@ -10,3 +10,5 @@ Turn on Allow User Scripts or Developer Mode in the browser extension settings.
 Make sure the script is enabled in Tampermonkey.
 
 Refresh the AtoZ tab after saving.
+
+**RESEARCH PURPOSES ONLY**
